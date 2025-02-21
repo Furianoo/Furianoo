@@ -106,12 +106,4 @@ Vamos construir algo incrível juntos! Entre em contato comigo através dos segu
 
 🚀 *"O futuro pertence àqueles que acreditam na beleza de seus sonhos."* – Eleanor Roosevelt
 
----
-
-### 🎨 **Inspiração Visual**
-
-Adicionei badges modernas e animações para tornar o `README` mais interativo e visualmente atraente. Sinta-se à vontade para personalizar ainda mais conforme suas preferências!
-
----
-
 ✨ **Obrigado por visitar o meu perfil!** ✨
